@@ -25,7 +25,7 @@ Once you have Git and Visual Studio Code on your own computer, you can clone (i.
 
 ## How to work on this assignment
 Use Visual Studio Code as your editor to work on this assignment.
-- Write your response to the articles you have chosen in the file named `README.md`.
+- Write your response to the articles you have chosen in the file named `README.md` - delete the current contents of that file when you start.
 - Be sure that your assignment is written in **Markdown**.  Don't know what Markdown is?... See below.
 
 ### What is Markdown?
