@@ -69,12 +69,15 @@ Sit sunt exercitationem eum molestiae et perspiciatis et consequuntur. Aut aut m
 ## How to submit this assignment
 Once you have written your assignment, formatted it nicely in Markdown, and saved it into the file named `README.md`, you are ready to submit it.  Do this from within Visual Studio Code.
 1. Click on the `Source Control` icon in the left side bar in Visual Studio Code.
-1. In the Source Control panel, you will see a field named `Message` - type in a unique message about what you have done, e.g. "`Finished assignment!`" or whatever you want to write as a note to yourself.
-1. Hover over the words `Source Control` - you will see a `...` icon appear - click it to see a menu.  In that menu, click `Push` to submit your assignment - this uploads your updated files to the copy of your respository on GitHub.
+1. In the Source Control panel, you will see a field named `Message` - type in a unique message about what you have done, e.g. "*Finished assignment!*" or whatever you want to write as a short note to yourself.
+1. Hover over the words `Source Control`. You will see a `...` icon appear - click it to see a menu.  In that menu, click `Push` to submit your assignment - this uploads your updated files to the copy of your respository on GitHub.
 
-That's it... you're done.  
+![Push changes to GitHub](./images/how_to_push_changes_to_github_from_vscode.png)
+
+That's it... you're done.
 
 ## Double-check your submission
 Prove to yourself that you have correctly submitted by viewing your repository on the GitHub website - you should see your completed README.md file there.
 
+## Resubmit as many times as you want
 You can re-submit as many times as you want before the deadline.  Just make changes to the files on your own computer and repeat the process outlined above to upload them to GitHub.
