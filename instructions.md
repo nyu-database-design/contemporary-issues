@@ -1,10 +1,10 @@
 # Contemporary Issues In Data
 
 In this assignment, you will...
-1. Find any two articles about particular databases or data-related topics in a current newspaper or journal.
+1. Find any two articles in relatively recent newspapers or journals with different viewpoints on a particular database or data-related issue.
 1. Write a response of at least a two paragraphs to each article.
 
-Additional requirements about *houw* you should do this are outlined below.
+Additional requirements about *how* you should do this are outlined below.
 
 ## How to set up your computer 
 ### Viewing this assignment on GitHub
@@ -48,7 +48,7 @@ You may have guessed it... we want you to include all the components listed abov
 - a link to an article about each contemporary issue - put these below each subheading using a code such as `[The link text you see on the web page](https://the.website.you.want.it.to.link.to)` to indicate a link in Markdown
 - at least two paragraphs of body text containing your personal response to each articles you linked to - put these below each subheading.
 
-For example, an assignment text in Markdown might look something like this (ignore the placeholder text):
+For example, an assignment text, in the file named README.md, written in Markdown might look something like this (ignore the placeholder text):
 ```markdown
 # Cambridge Analytica's Use of Facebook Users' Data to Influence the 2016 Presidential Election
 In this document, I discuss two articles about Cambridge Analytica's mining of Facebook data and the claims made by some that it altered the course of the 2016 US Presidential Election.  I present and discuss two opposing views on this important matter.
@@ -68,5 +68,13 @@ Sit sunt exercitationem eum molestiae et perspiciatis et consequuntur. Aut aut m
 
 ## How to submit this assignment
 Once you have written your assignment, formatted it nicely in Markdown, and saved it into the file named `README.md`, you are ready to submit it.  Do this from within Visual Studio Code.
+1. Click on the `Source Control` icon in the left side bar in Visual Studio Code.
+1. In the Source Control panel, you will see a field named `Message` - type in a unique message about what you have done, e.g. "`Finished assignment!`" or whatever you want to write as a note to yourself.
+1. Hover over the words `Source Control` - you will see a `...` icon appear - click it to see a menu.  In that menu, click `Push` to submit your assignment - this uploads your updated files to the copy of your respository on GitHub.
 
+That's it... you're done.  
 
+## Double-check your submission
+Prove to yourself that you have correctly submitted by viewing your repository on the GitHub website - you should see your completed README.md file there.
+
+You can re-submit as many times as you want before the deadline.  Just make changes to the files on your own computer and repeat the process outlined above to upload them to GitHub.
